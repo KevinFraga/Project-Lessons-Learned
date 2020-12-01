@@ -11,4 +11,5 @@
 #### Nota
 
 :black_medium_small_square: Requisitos Obrigatórios: :one::zero::zero:%
+
 :black_medium_small_square: Requisitos Bônus: :one::zero::zero:%
